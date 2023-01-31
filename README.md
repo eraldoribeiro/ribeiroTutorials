@@ -7,3 +7,4 @@
 - [Homogeneous coordinates and geometric transformations](https://github.com/eraldoribeiro/homogeneousCoordinates/blob/main/code/homogeneousCoords.ipynb)
 - [Displaying interactive 3-D meshes (and point clouds) in Colab](https://nbviewer.org/github/eraldoribeiro/rendering3DinColab/blob/main/displayMeshInColabUsingOpen3DandPlotly.ipynb)
 - [Displaying interactive 3-D meshes using OpenCV geometries (and point clouds) in Colab](https://nbviewer.org/github/eraldoribeiro/render3DColabUsingOpen3D_drawGeometries/blob/main/MeshInColab_Open3DGeometries.ipynb)
+- [2-D geometric transformations](http://htmlpreview.github.io/?https://github.com/eraldoribeiro/2d_transformations/blob/main/html/2dtransformations.html)
